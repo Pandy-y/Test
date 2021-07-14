@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
 h1{
   font-size: 45px;
   font-weight: 600;
@@ -5,7 +11,10 @@ h1{
 }
 
 p{
+  color: #777;
   font-size: 16px;
   font-weight: 300;
-  text-align: center;
+  line-height: 30px;
+  padding: 10px;
 }
+
